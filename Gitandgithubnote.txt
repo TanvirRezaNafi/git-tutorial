@@ -58,3 +58,14 @@ command: code .
 
 13. how top push code in github
 command : git push -u origin main
+
+#git Branch 
+
+14. how to check how many branches are there in a reposatory
+command: git branch
+
+15. how to create a new branch
+command: git branch branchname
+
+16. how to go from one branch to another branch
+command: git checkout branch name
