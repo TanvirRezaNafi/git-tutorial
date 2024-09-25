@@ -68,6 +68,13 @@ command: git branch
 command: git branch branchname
 
 16. how to go from one branch to another branch
-command: git checkout branch name
+command: git checkout branchname
 
-17.
+17. how to merge git branch
+process: go to main branch>merge branch
+command: git merge branchname
+
+18. how to checkout and create a branch swith one command
+command: git checkout -b branchname
+
+19. 
