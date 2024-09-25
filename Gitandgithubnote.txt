@@ -69,3 +69,5 @@ command: git branch branchname
 
 16. how to go from one branch to another branch
 command: git checkout branch name
+
+17.
